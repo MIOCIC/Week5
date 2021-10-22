@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="77564a9e-a6c3-4951-af21-aef1825fe1e3" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1zfhvYLTcEBspw5EsNLAsISUlHA" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="hr.dream.factory.learning.apis" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Executable">
+    <configuration name="Executable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hr.dream.factory.learning.apis.Executable" />
+      <module name="Week5" />
+      <option name="PROGRAM_PARAMETERS" value="2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hr.dream.factory.learning.apis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DotaFetcherTest.fetchAllHeroes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Week5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hr.dream.factory.learning.apis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hr.dream.factory.learning.apis" />
+      <option name="MAIN_CLASS_NAME" value="hr.dream.factory.learning.apis.DotaFetcherTest" />
+      <option name="METHOD_NAME" value="fetchAllHeroes" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DotaProcessorTest.fetchAndSaveAllHeroesToDb" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Week5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hr.dream.factory.learning.apis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hr.dream.factory.learning.apis" />
+      <option name="MAIN_CLASS_NAME" value="hr.dream.factory.learning.apis.DotaProcessorTest" />
+      <option name="METHOD_NAME" value="fetchAndSaveAllHeroesToDb" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DotaProcessorTest.fetchAndSavePickBans" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Week5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hr.dream.factory.learning.apis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hr.dream.factory.learning.apis" />
+      <option name="MAIN_CLASS_NAME" value="hr.dream.factory.learning.apis.DotaProcessorTest" />
+      <option name="METHOD_NAME" value="fetchAndSavePickBans" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DotaProcessorTest.getDBList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Week5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hr.dream.factory.learning.apis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hr.dream.factory.learning.apis" />
+      <option name="MAIN_CLASS_NAME" value="hr.dream.factory.learning.apis.DotaProcessorTest" />
+      <option name="METHOD_NAME" value="getDBList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Executable" />
+      <item itemvalue="JUnit.DotaFetcherTest.fetchAllHeroes" />
+      <item itemvalue="JUnit.DotaProcessorTest.fetchAndSaveAllHeroesToDb" />
+      <item itemvalue="JUnit.DotaProcessorTest.fetchAndSavePickBans" />
+      <item itemvalue="JUnit.DotaProcessorTest.getDBList" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Executable" />
+        <item itemvalue="JUnit.DotaProcessorTest.getDBList" />
+        <item itemvalue="JUnit.DotaProcessorTest.fetchAndSavePickBans" />
+        <item itemvalue="JUnit.DotaProcessorTest.fetchAndSaveAllHeroesToDb" />
+        <item itemvalue="JUnit.DotaFetcherTest.fetchAllHeroes" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77564a9e-a6c3-4951-af21-aef1825fe1e3" name="Changes" comment="" />
+      <created>1634545286353</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634545286353</updated>
+      <workItem from="1634545303207" duration="29154000" />
+      <workItem from="1634729422377" duration="32293000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Week5$DotaProcessorTest_getDBList.ic" NAME="DotaProcessorTest.getDBList Coverage Results" MODIFIED="1634889661667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>hr.dream.factory.learning.apis.*</FILTER>
+    </SUITE>
+  </component>
+</project>
